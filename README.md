@@ -3,7 +3,7 @@
 **Data Scientist & Machine Learning Engineer** | Computer Vision | LLM Applications | AI Agents  
 Ludwigsburg, Germany | UTC+2
 
-**Profile Overview
+**Profile Overview**
 PhD-qualified Data Scientist and Machine Learning Engineer with over 10 years of experience in quantitative analytics, machine learning, and software-driven business solutions. Currently engineering production-oriented AI and ML systems using LLMs, RAG, AI Agents, Computer Vision, and modern MLOps practices. Focused on designing reliable, scalable automation systems that convert complex workflows into production-ready solutions.
 
 **Technical Skills**
