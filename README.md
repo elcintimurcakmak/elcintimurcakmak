@@ -1,7 +1,6 @@
 # Dr. Elcin Timur Cakmak
 
 **Data Scientist & Machine Learning Engineer** | Computer Vision | LLM Applications | AI Agents  
-Ludwigsburg, Germany | UTC+2
 
 
 **Profile Overview**
